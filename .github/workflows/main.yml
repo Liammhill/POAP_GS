@@ -28,4 +28,4 @@ jobs:
 
     - name: Run Dash App (optional, for preview/testing)
       run: |
-        python Dashboard.py
+        python App.py
